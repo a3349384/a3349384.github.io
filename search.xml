@@ -27,12 +27,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Test]]></title>
-      <url>https://a3349384.github.io/2016/11/01/Test/</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[仿SwipeRefreshLayout下拉加载更多]]></title>
       <url>https://a3349384.github.io/2016/08/09/%E4%BB%BFSwipeRefreshLayout%E4%B8%8B%E6%8B%89%E5%8A%A0%E8%BD%BD%E6%9B%B4%E5%A4%9A/</url>
       <content type="html"><![CDATA[<h1 id="效果预览"><a href="#效果预览" class="headerlink" title="效果预览"></a>效果预览</h1><p><img src="https://github.com/a3349384/SwipeTopBottomLayout/blob/master/GIF_20160808_150714.gif?raw=true" alt="image"></p>
